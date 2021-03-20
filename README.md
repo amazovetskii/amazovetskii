@@ -11,6 +11,9 @@
 - `Node.js/JS`
 - `PHP`
 - `MySQL/SQL`
+- `AJAX`
+- `HTML/CSS`
+- `webpack.js`
 
 ## Имею опыт в создании коммерческих продуктов, в частности: ##
 - Создал с нуля сайт-лендинг по скупке акций: [Скупка акций](https://github.com/AVM1805/BuyingUpQuotes) - для "ОАО МКЦ44". Использовал: Js, PHP, Bootstrap4, Python, Cron
