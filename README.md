@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandr Mazovetskiy
-- 👀 I’m interested in Backend-development, managment, business.
-- 🌱 I’m currently learning: ` Node.js, React.js, AJAX, `
+- 👀 I’m interested in Backend-development, managment, business, finances.
+- 🌱 I’m currently learning: ` Node.js, java `
 - 📫 m9502490764@gmail.com, Whatsapp/Viber/Telegram: +79502490764
 
 ## Привет мир! ##
