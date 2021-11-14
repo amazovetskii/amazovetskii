@@ -12,7 +12,6 @@ m9502490764@gmail.com, Whatsapp/Viber/Telegram: +79502490764
 - `MongoDB`
 - `AJAX`
 - `HTML/CSS`
-- `webpack.js`
 
 ## Продукты: ##
 - Сайт-лендинг по скупке акций: ***[Скупка акций](https://github.com/AVM1805/BuyingUpQuotes)*** - для "***ООО МКЦ44***". Использовал: Js, PHP, Bootstrap4, Python, Cron
