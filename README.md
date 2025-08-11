@@ -29,6 +29,16 @@
 		<li>MongoDB</li>
 	</ul>
 </li>
+<li>
+	Miscellaneous:
+	<ul>
+		<li>Alghorithms & Data Strctures</li>
+		<li>Statistics</li>
+<!-- 		<li></li>
+		<li></li>
+		<li></li> -->
+	</ul>
+</li>
 </ul>
 
 <h2>Languages:</h2>
