@@ -29,3 +29,10 @@
 	</ul>
 </li>
 </ul>
+
+<h2>Skills:</h2>
+<ul>
+	<li>Russian🇷🇺</li>
+ 	<li>English🇬🇧</li>
+	<li>German🇩🇪</li>
+</ul>
