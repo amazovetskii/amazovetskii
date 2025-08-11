@@ -1,5 +1,7 @@
-- Education:
-  - **BSc Artificial Intelligence** (March 2024 - current time) at JKU Linz
+<h3>Education:</h3>
+<ul>
+<li>**BSc Artificial Intelligence** (March 2024 - current time) at JKU Linz</li>
+</ul>
 
 <h3>Skills:</h3>
 <ul>
