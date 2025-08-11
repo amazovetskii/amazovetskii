@@ -30,7 +30,7 @@
 </li>
 </ul>
 
-<h2>Skills:</h2>
+<h2>Languages:</h2>
 <ul>
 	<li>Russian🇷🇺</li>
  	<li>English🇬🇧</li>
