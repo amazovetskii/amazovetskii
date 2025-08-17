@@ -9,10 +9,10 @@
 <li>
 	Python:
 	<ul>
-		<li>Pytorch</li>
-  	<li>PySpark</li>
-  	<li>Flask</li>
-  	<li>Numpy, Pandas</li>
+		<li>Pytorch, Scikit-learn</li>
+  		<li>PySpark</li>
+  		<li>Flask</li>
+  		<li>Numpy, Pandas</li>
 	</ul>
 </li>
 <li>
