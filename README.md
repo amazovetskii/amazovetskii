@@ -4,6 +4,20 @@
 	<li><b>BSc Artificial Intelligence</b> (March 2024 - current time) at JKU Linz</li>
 </ul>
 
+<h2>Projects:</h2>
+<ul>
+	<li>
+		<b><a href="https://v2202509300118381864.luckysrv.de">Mnemosyne</a></b> - online service that helps learning new words reinforced by AI (Beta test)
+		<ul>
+			<li>Spaced Repetition System</li>
+			<li>Automatic translation, synonyms, examples, explanations</li>
+			<li>Check of user sentences</li>
+			<li>Multiple languages support</li>
+		</ul>
+	</li>
+</ul>
+
+
 <h2>Skills:</h2>
 <ul>
 <li>
@@ -34,9 +48,6 @@
 	<ul>
 		<li>Alghorithms & Data Strctures</li>
 		<li>Statistics</li>
-<!-- 		<li></li>
-		<li></li>
-		<li></li> -->
 	</ul>
 </li>
 </ul>
