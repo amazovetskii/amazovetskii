@@ -46,6 +46,7 @@
 <li>
 	Miscellaneous:
 	<ul>
+		<li>Docker</li>
 		<li>Alghorithms & Data Strctures</li>
 		<li>Statistics</li>
 	</ul>
