@@ -7,7 +7,7 @@
 <h2>Projects:</h2>
 <ul>
 	<li>
-		<b><a href="https://v2202509300118381864.luckysrv.de">Mnemosyne</a></b> - online service that helps learning new words reinforced by AI (Beta test)
+		<b>Mnemosyne</b> - online service that helps learning new words reinforced by AI (Beta test)
 		<ul>
 			<li>Spaced Repetition System</li>
 			<li>Automatic translation, synonyms, examples, explanations</li>
