@@ -1,7 +1,7 @@
 <h2>Education and certificates:</h2>
 <ul>
 	<li><b>BSc Design and production technology of electronic equipment</b> (September 2023 - December 2023) at Bauman Moscow State Technical University</li>
-	<li><b>BSc Artificial Intelligence</b> (March 2024 - aprx. June 2027) at JKU Linz</li>
+	<li><b>BSc Artificial Intelligence</b> (March 2024 - June 2027) at JKU Linz</li>
 </ul>
 
 <h2>Projects:</h2>
